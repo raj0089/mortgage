@@ -8,8 +8,8 @@ mortgage payment.  Other items include escrow payments for taxes and insurance.
 .. image:: https://travis-ci.org/jbmohler/mortgage.png?branch=master
   :target: https://travis-ci.org/jbmohler/mortgage
 
-From the command line one can get an summary of the mortgage totals.  For
-example, show a bunch of details for loan of $350,000 at 3.75 interest rate.
+From the command line one can get a summary of the mortgage totals.  For
+example, show a bunch of details for a loan of $350,000 at 3.75 interest rate.
 
 >>> import mortgage
 >>> m=mortgage.Mortgage(interest=0.0375, amount=350000, months=360)
