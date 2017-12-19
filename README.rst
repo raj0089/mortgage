@@ -2,7 +2,7 @@ Introduction
 ------------
 
 The mortgage package computes mortgage amortizations.  Generally in real life
-the principle and interest portions that this computes is not your entire
+the principle and interest portions that this code computes is not your entire
 mortgage payment.  Other items include escrow payments for taxes and insurance.
 
 .. image:: https://travis-ci.org/jbmohler/mortgage.png?branch=master
